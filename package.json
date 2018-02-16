@@ -1,0 +1,13 @@
+{
+  "id": "franzcrispchat",
+  "name": "Franz Crisp Chat Integration",
+  "version": "1.0.0",
+  "description": "Crisp Chat integration for Franz",
+  "main": "index.js",
+  "author": "Go Innovative (Lukas Reusch)",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://meetfranz.com/",
+    "hasNotificationSound": true
+  }
+}
