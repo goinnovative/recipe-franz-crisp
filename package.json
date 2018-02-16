@@ -7,7 +7,7 @@
   "author": "Go Innovative (Lukas Reusch)",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://meetfranz.com/",
+    "serviceURL": "https://app.crisp.chat/",
     "hasNotificationSound": true
   }
 }
